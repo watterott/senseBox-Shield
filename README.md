@@ -6,4 +6,5 @@ The senseBox-Shield is a plug-on module for Arduino to connect different sensor 
 * JST connectors for different sensors
 * microSD socket (SPI) support SD and SDHC cards
 * RV-8523 RTC (I2C Real-Time-Clock) with backup battery
-* **[Documentation on learn.watterott.com](http://learn.watterott.com/sensebox/)**
+* Open-Source
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
